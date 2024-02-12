@@ -37,6 +37,7 @@
             // button1
             // 
             resources.ApplyResources(button1, "button1");
+            button1.Cursor = Cursors.Cross;
             button1.Name = "button1";
             button1.UseVisualStyleBackColor = true;
             // 

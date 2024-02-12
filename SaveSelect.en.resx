@@ -119,10 +119,10 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>94, 29</value>
+    <value>148, 29</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>button1</value>
+    <value>Open SAVE file</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="linkLabel1.AutoSize" type="System.Boolean, mscorlib">
@@ -135,6 +135,6 @@
     <value>View source code</value>
   </data>
   <data name="OpenSAVFile.Filter" xml:space="preserve">
-    <value>"Save files (*.sav)|*.sav|All files (*.*)|*.*" </value>
+    <value>Save files (*.sav)|*.sav|All files (*.*)|*.* </value>
   </data>
 </root>
