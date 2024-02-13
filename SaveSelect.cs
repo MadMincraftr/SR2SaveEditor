@@ -13,6 +13,7 @@ namespace SR2SaveEditor
         }
         public SaveSelect()
         {
+
             InitializeComponent();
 
             button1.Click += OpenSav;
